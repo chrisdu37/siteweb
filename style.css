@@ -83,4 +83,14 @@ img {
   cursor: pointer;
 }
 
- 
+  .parent{
+  display: flex;
+ }
+ .enfant{
+  width: 50%;
+  height: 200px ;
+  background: #000;
+ }
+ .enfant:nth-child(2){
+  background: red;
+ }
