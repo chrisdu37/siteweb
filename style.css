@@ -75,11 +75,5 @@ h1 {
     font-weight: 100;
 }
 
-img {
-  width: 150px;
-  position: absolute;
-  top: 50%;
-  left: 45%;
-  cursor: pointer;
-}
+
 
