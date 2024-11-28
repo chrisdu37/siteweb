@@ -86,7 +86,7 @@ h1 {
 }
 @keyframes imagesanim {
   0% {transform: translateX(0);}
-  100% {transform: translateX(-2000px);}
+  100% {transform: translateX(-4000px);}
        }
   
 
