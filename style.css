@@ -74,9 +74,23 @@ h1 {
     font-size: 100%;
     font-weight: 100;
 }
+#defil {
+  width: 640px;
+  overflow: auto;
+}
 .mesimages {
   display: flex;
+  animation-duration: 10s;
+  animation-name: imagesanim;
+  animation-iteration-count: infinite;
 }
+@keyframes imagesanim {
+  0% {transform: translateX(0);}
+  100% {transform: translateX(-2000px);}
+       }
+  
+
+
 
 
 
