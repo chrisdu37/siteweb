@@ -74,6 +74,9 @@ h1 {
     font-size: 100%;
     font-weight: 100;
 }
+.mesimages {
+  display: flex;
+}
 
 
 
